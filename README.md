@@ -59,7 +59,7 @@ Install the CUDA Toolkit on your machine. Ensure that your GPU is compatible wit
 Install OpenCV using the appropriate package manager for your operating system.
 
 ## Build and Run
-```
+
 1. Clone the repository:
    ```
 git clone <repository-url>
@@ -79,7 +79,7 @@ make all
 ./run.sh
 ```
 5. The processed images will be stored in the output/ directory.
-```
+
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/98e82a6b-e29c-4fdb-a15a-00d547c3c7d9)
 
