@@ -81,7 +81,11 @@ make all
 5. The processed images will be stored in the output/ directory.
 
 ## Sample Output
-![image](https://github.com/user-attachments/assets/98e82a6b-e29c-4fdb-a15a-00d547c3c7d9)
+![image](https://github.com/user-attachments/assets/98e82a6b-e29c-4fdb-a15a-00d547c3c7d9)             ![image](https://github.com/user-attachments/assets/e887d676-9464-45af-8944-7a21e8b70758)
+
+![image](https://github.com/user-attachments/assets/fedd287d-60d2-4ee3-ae9c-d8e5c35f7299)        ![image](https://github.com/user-attachments/assets/3ee94fc9-ddab-416a-ae20-e8160ccfd455)
+  
+       
 
 
 
