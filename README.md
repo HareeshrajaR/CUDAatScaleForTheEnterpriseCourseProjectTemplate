@@ -61,10 +61,10 @@ Install OpenCV using the appropriate package manager for your operating system.
 ## Build and Run
 
 1. Clone the repository:
-   ```
+```
 git clone <repository-url>
 cd <repository-directory>
-   ```
+```
 2. Install the required dependencies:
     For OpenCV, you can use:
 ```
